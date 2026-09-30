@@ -18,4 +18,5 @@ Lời giải các bài trên code.ptit.edu.vn (DLab), viết bằng Python 3.
 | TRR1_3006 | Liệt kê hoán vị trước 01 | Chưa AC |
 | TRR1_4001 | Bài toán cái túi 01 | Chia đôi, gặp nhau ở giữa |
 | TRR1_4003 | Bài toán phân việc 01 | Quy hoạch động trên tập con |
+| TRR1_4004 | Bài toán phân việc 02 | Như 4003, đổi chiều thành lớn nhất |
 | lt004 | Bài toán người du lịch | Nhánh cận |
